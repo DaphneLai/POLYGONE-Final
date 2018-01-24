@@ -1,0 +1,15 @@
+                                            
+                                                                                                   Welcome to PolyGone!
+
+              You might be thinking, “they misspelled polygon”. Well jokes on you we were making
+                  a very bad pun (enter evil face here). Anyways let’s get to the tutorial!
+
+                                                                                                              HOW TO PLAY
+
+             Here in this low class game your goal is to be the fastest of them all, the best of the
+             best, better than the rest, the cherry on top of a sundae, the only one that can make your family
+             proud! Polygons will pop up onto the screen for your eyes to admire. For each polygon, you must enter
+             the number of sides there are. Once you’ve enter the number you must press ENTER to go to the next
+             polygon(which will randomize in sides). Easy right? Here’s the catch, there’s a timer counting from
+             1 MINUTE and if you get your answers wrong the time will run out faster. Time flies when you’re 
+             having fun. The more polygons you count through, the higher the score. Simple.
